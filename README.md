@@ -3,7 +3,6 @@ Object: Perform web automation using selenium-python
 
 
 ## Requisites
-
 ```bash
 pip install selenium
 
@@ -11,6 +10,11 @@ pip install unittest2
 
 pip install html-testRunner
 ```
+
+
+## Reference links
+https://selenium-python.readthedocs.io/
+
 
 
 ## Contributing
